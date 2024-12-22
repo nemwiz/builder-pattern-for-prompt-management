@@ -1,0 +1,4 @@
+{
+  "name": "builder-pattern-for-prompt-management",
+  "dockerFile": "Dockerfile"
+}
